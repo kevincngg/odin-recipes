@@ -1,8 +1,14 @@
 body{
-    background-color:blanchedalmond;
-    color:brown;
+    background-color:seashell;
+    color:seagreen;
+    font-family: 'Georgia', serif;
 }
 
 a{
-    color:seagreen
+    color:darkcyan;
+    font-family: 'Times New Roman', serif;
+}
+
+h1,h2{
+    color:black
 }
