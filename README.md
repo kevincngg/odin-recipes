@@ -12,6 +12,7 @@ This is a basic recipe website built as part of **The Odin Project** curriculum.
 
 ##  Built With
 * HTML5
+* CSS
 * Git & GitHub
 
 ##  Project Structure
